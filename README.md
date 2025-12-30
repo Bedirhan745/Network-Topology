@@ -33,8 +33,9 @@ cd Network-Topology
   4. Ana program dosyasını çalıştırınız:
 
       ```bash
-       python main.py
+      python main.py
       ```
+
 
 
 
