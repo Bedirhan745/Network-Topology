@@ -27,12 +27,13 @@ cd Network-Topology
 
 
   3. Gerekli kütüphaneleri yükleyin:
-
+```bash
       pip install -r requirements.txt
-
+```
   4. Ana program dosyasını çalıştırınız:
 
        python main.py
+
 
 
 
