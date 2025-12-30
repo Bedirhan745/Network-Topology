@@ -32,9 +32,10 @@ cd Network-Topology
 ```
   4. Ana program dosyasını çalıştırınız:
 
-      ```bash
+```bash
       python main.py
-      ```
+```
+
 
 
 
