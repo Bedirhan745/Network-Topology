@@ -23,6 +23,7 @@
 ```bash
 git clone https://github.com/Bedirhan745/Network-Topology
 cd Network-Topology
+```
 
 
   3. Gerekli kütüphaneleri yükleyin:
@@ -32,6 +33,7 @@ cd Network-Topology
   4. Ana program dosyasını çalıştırınız:
 
        python main.py
+
 
 
 
