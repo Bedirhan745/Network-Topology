@@ -25,9 +25,10 @@
 
   3. Gerekli kütüphaneleri yükleyin:
 
-       pip install -r requirements.txt
+      pip install -r requirements.txt
 
   4. Ana program dosyasını çalıştırınız:
 
        python main.py
+
 
