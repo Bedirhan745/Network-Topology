@@ -19,9 +19,11 @@
   1. Python 3.9 veya üzeri yüklü olmalıdır.
 
   2. Proje dosyalarını indirin veya Git deposunu klonlayın:
-     ```bash
-   git clone https://github.com/Bedirhan745/Network-Topology
-   cd Network-Topology
+
+```bash
+git clone https://github.com/Bedirhan745/Network-Topology
+cd Network-Topology
+
 
   3. Gerekli kütüphaneleri yükleyin:
 
@@ -30,5 +32,6 @@
   4. Ana program dosyasını çalıştırınız:
 
        python main.py
+
 
 
