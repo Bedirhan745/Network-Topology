@@ -14,6 +14,16 @@
   - ACO (MMAS): seed = 42
 
 
+
+  ## Uygulama Arayüzü
+
+
+  Uygulama menüde seçilen seçimlere göre en iyi yolu bulmaktadır
+
+![Ana Ekran](images/main_screen.png)
+
+
+
   ## Çalıştırma Adımları
 
   1. Python 3.9 veya üzeri yüklü olmalıdır.
@@ -35,6 +45,7 @@ cd Network-Topology
 ```bash
       python main.py
 ```
+
 
 
 
