@@ -20,7 +20,7 @@
 
   Uygulama menüde seçilen seçimlere göre en iyi yolu bulmaktadır
 
-![Ana Ekran](images/main_screen.png)
+![Ana Ekran](images/program.png)
 
 
 
@@ -45,6 +45,7 @@ cd Network-Topology
 ```bash
       python main.py
 ```
+
 
 
 
